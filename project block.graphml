@@ -669,23 +669,6 @@
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
-          <y:Geometry height="40.0" width="137.5815289794926" x="-240.81326448974633" y="245.99999999999955"/>
-          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="134.341796875" x="1.6198660522462944" y="10.6494140625">Ввод названия проекта<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n38">
-      <data key="d5"/>
-      <data key="d6">
-        <y:GenericNode configuration="com.yworks.flowchart.manualInput">
           <y:Geometry height="40.0" width="226.2499999999999" x="-50.446028979492894" y="175.99999999999955"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
@@ -699,7 +682,7 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n39">
+    <node id="n38">
       <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
@@ -717,7 +700,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n40">
+    <node id="n39">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
@@ -734,7 +717,7 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n41">
+    <node id="n40">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.display">
@@ -751,11 +734,11 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n42">
+    <node id="n41">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
-          <y:Geometry height="40.0" width="121.19999999999993" x="193.89397102050702" y="362.0399999999995"/>
+          <y:Geometry height="40.0" width="121.19999999999993" x="329.893971020507" y="346.8683315348305"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="108.103515625" x="6.548242187499966" y="10.6494140625">Ввод длины стены<y:LabelModel>
@@ -768,11 +751,11 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n43">
+    <node id="n42">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
-          <y:Geometry height="40.0" width="121.19999999999993" x="193.89397102050702" y="412.06833153483046"/>
+          <y:Geometry height="40.0" width="121.19999999999993" x="334.3808840820283" y="402.8058315348305"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.78515625" x="-1.792578125000034" y="10.6494140625">Ввод высоты потолка<y:LabelModel>
@@ -785,7 +768,7 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n44">
+    <node id="n43">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
@@ -803,11 +786,11 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n45">
+    <node id="n44">
       <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="121.19999999999993" x="535.8408840820281" y="245.39999999999907"/>
+          <y:Geometry height="30.0" width="121.19999999999993" x="535.8408840820281" y="241.83999999999952"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.5546875" x="3.322656249999966" y="5.6494140625">Обработка нажатия<y:LabelModel>
@@ -821,7 +804,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n46">
+    <node id="n45">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.display">
@@ -838,11 +821,11 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n47">
+    <node id="n46">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
-          <y:Geometry height="40.0" width="121.19999999999993" x="193.89397102050702" y="462.1508288370764"/>
+          <y:Geometry height="40.0" width="121.19999999999993" x="334.3808840820283" y="452.7366630696614"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.91796875" x="10.641015624999966" y="10.6494140625">Ввод кол-ва окон<y:LabelModel>
@@ -855,11 +838,11 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n48">
+    <node id="n47">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.manualInput">
-          <y:Geometry height="40.0" width="121.19999999999993" x="193.89397102050702" y="512.2333261393223"/>
+          <y:Geometry height="40.0" width="121.19999999999993" x="334.3808840820283" y="502.6674946044924"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.794921875" x="3.202539062499966" y="10.6494140625">Ввод кол-ва дверей<y:LabelModel>
@@ -872,11 +855,11 @@
         </y:GenericNode>
       </data>
     </node>
-    <node id="n49">
+    <node id="n48">
       <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="103.99999999999989" x="202.49397102050705" y="582.2333261393223"/>
+          <y:Geometry height="30.0" width="103.99999999999989" x="342.9808840820283" y="567.5683243408201"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.859375" x="0.5703124999999432" y="5.6494140625">Рассчет площади<y:LabelModel>
@@ -890,11 +873,11 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n50">
+    <node id="n49">
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.display">
-          <y:Geometry height="40.0" width="221.7199999999999" x="345.09397102050696" y="577.2333261393223"/>
+          <y:Geometry height="40.0" width="221.7199999999999" x="485.5808840820282" y="562.5683243408201"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="177.42578125" x="22.147109374999957" y="10.6494140625">Вывод результата вычеслений<y:LabelModel>
@@ -905,6 +888,60 @@
             </y:ModelParameter>
           </y:NodeLabel>
         </y:GenericNode>
+      </data>
+    </node>
+    <node id="n50">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.manualInput">
+          <y:Geometry height="48.31999999999999" width="121.19999999999993" x="535.8408840820282" y="649.9816576741532"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.515625" x="4.684374999999989" y="10.917656249999936">Нажатие на кнопку 
+cоздания проекта<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0028233292079209438" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n51">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="121.19999999999993" x="535.8408840820282" y="728.3016576741533"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.5546875" x="3.322656249999966" y="5.6494140625">Обработка нажатия<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n52">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="207.5999999999999" x="794.5869130615212" y="728.3016576741533"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="203.869140625" x="1.8654296874999545" y="5.6494140625">Сохранение данных в базе данных <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
       </data>
     </node>
     <edge id="e0" source="n4" target="n14">
@@ -1240,7 +1277,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e30" source="n35" target="n38">
+    <edge id="e30" source="n35" target="n37">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1251,7 +1288,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e31" source="n38" target="n39">
+    <edge id="e31" source="n37" target="n38">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1262,7 +1299,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e32" source="n39" target="n41">
+    <edge id="e32" source="n38" target="n40">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1273,7 +1310,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e33" source="n41" target="n44">
+    <edge id="e33" source="n40" target="n43">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1284,7 +1321,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e34" source="n44" target="n45">
+    <edge id="e34" source="n43" target="n44">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1295,7 +1332,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e35" source="n45" target="n46">
+    <edge id="e35" source="n44" target="n45">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1306,7 +1343,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e36" source="n41" target="n40">
+    <edge id="e36" source="n40" target="n39">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1317,7 +1354,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e37" source="n40" target="n42">
+    <edge id="e37" source="n39" target="n41">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1328,7 +1365,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e38" source="n42" target="n43">
+    <edge id="e38" source="n41" target="n42">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1339,7 +1376,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e39" source="n46" target="n42">
+    <edge id="e39" source="n45" target="n41">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1352,7 +1389,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e40" source="n43" target="n47">
+    <edge id="e40" source="n42" target="n46">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1363,7 +1400,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e41" source="n47" target="n48">
+    <edge id="e41" source="n46" target="n47">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1374,7 +1411,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e42" source="n48" target="n49">
+    <edge id="e42" source="n47" target="n48">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1385,7 +1422,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e43" source="n49" target="n50">
+    <edge id="e43" source="n48" target="n49">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1396,13 +1433,45 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e44" source="n41" target="n43">
+    <edge id="e44" source="n49" target="n50">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-0.013528979492889448" ty="8.931668465169196">
-            <y:Point x="96.96249999999986" y="341.9999999999997"/>
-            <y:Point x="105.96249999999986" y="348.9999999999997"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e45" source="n50" target="n51">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e46" source="n51" target="n52">
+      <data key="d9"/>
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e47" source="n51" target="n26">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="791.4583333333323" y="661.203125"/>
+            <y:Point x="791.4583333333323" y="-50.799999999999955"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
