@@ -126,22 +126,27 @@ namespace WindowsFormsApplication2
 
         private void button2_MouseEnter(object sender, EventArgs e)
         {
-            button1.BackColor = Color.Aqua;
+            button2.BackColor = Color.Aqua;
         }
 
         private void button2_MouseLeave(object sender, EventArgs e)
         {
-            button1.BackColor = Color.Empty;
+            button2.BackColor = Color.Empty;
         }
 
         private void button3_MouseEnter(object sender, EventArgs e)
         {
-            button1.BackColor = Color.Aqua;
+            button3.BackColor = Color.Aqua;
         }
 
         private void button3_MouseLeave(object sender, EventArgs e)
         {
-            button1.BackColor = Color.Empty;
+            button3.BackColor = Color.Empty;
+        }
+
+        private void button25_Click(object sender, EventArgs e)
+        {
+            panel3.Visible = true;
         }
     }
 }

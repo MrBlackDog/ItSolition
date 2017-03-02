@@ -721,7 +721,7 @@
             this.button19.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button19.Location = new System.Drawing.Point(7, 6);
             this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(56, 24);
+            this.button19.Size = new System.Drawing.Size(74, 24);
             this.button19.TabIndex = 7;
             this.button19.Text = "назад";
             this.button19.UseVisualStyleBackColor = true;
@@ -995,6 +995,7 @@
             this.button25.TabIndex = 14;
             this.button25.Text = "Добавить комнату";
             this.button25.UseVisualStyleBackColor = true;
+            this.button25.Click += new System.EventHandler(this.button25_Click);
             // 
             // textBox18
             // 
