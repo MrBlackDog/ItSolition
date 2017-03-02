@@ -51,9 +51,6 @@
     <Reference Include="mysql.data">
       <HintPath>..\..\..\Новая папка\mysql.data.dll</HintPath>
     </Reference>
-    <Reference Include="mysql.data.cf">
-      <HintPath>..\..\..\Новая папка\mysql.data.cf.dll</HintPath>
-    </Reference>
     <Reference Include="mysql.visualstudio">
       <HintPath>..\..\..\Новая папка\mysql.visualstudio.dll</HintPath>
     </Reference>

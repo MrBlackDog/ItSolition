@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Reflection;
+using MySql.Data.MySqlClient;
+
 
 namespace WindowsFormsApplication2
 {
@@ -87,6 +89,7 @@ namespace WindowsFormsApplication2
         private void button4_Click(object sender, EventArgs e)
         {
             tabControl1.SelectedTab = tabControl1.TabPages["tabPage4"];
+          //  dataGridView1.DataSource = GetComments();
         }
 
         private void button21_Click(object sender, EventArgs e)
@@ -148,5 +151,44 @@ namespace WindowsFormsApplication2
         {
             panel3.Visible = true;
         }
+        //Блок работы с бд
+//     private DataTable GetComments()
+//        {
+//            DataTable dt = new DataTable();
+//            MySqlConnectionStringBuilder mysqlCSB;
+//            mysqlCSB = new MySqlConnectionStringBuilder();
+//            mysqlCSB.Server = "172.16.3.150";
+//            mysqlCSB.Database = "user3@localhost";
+//            mysqlCSB.UserID = "user3";
+//            mysqlCSB.Password = "Itsolutionuser3";
+//            string queryString = @"SELECT comment_author,
+//comment_date,
+//comment_content
+//FROM   wp_comments
+//WHERE  comment_date >= CURDATE()";
+//            using (MySqlConnection con = new MySqlConnection())
+//            {
+//                con.ConnectionString = mysqlCSB.ConnectionString;
+//                MySqlCommand com = new MySqlCommand(queryString, con);
+//                try
+//                {
+//                    con.Open();
+//                    using (MySqlDataReader dr = com.ExecuteReader())
+//                    {
+//                        if (dr.HasRows)
+//                        {
+//                            dt.Load(dr);
+//                        }
+//                    }
+//                }
+//                catch (Exception ex)
+//                {
+//                    MessageBox.Show(ex.Message);
+//                }
+//            }
+//            return dt;
+//  }
+        }
+
     }
-}
+
