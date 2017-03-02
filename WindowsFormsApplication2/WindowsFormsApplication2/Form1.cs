@@ -28,17 +28,120 @@ namespace WindowsFormsApplication2
             if (textBox3.Text != textBox4.Text)
                 MessageBox.Show("Пароли не совпадают");
             else
-                tabControl1.SelectedTab = tabControl1.TabPages["tabPage4"];
+                tabControl1.SelectedTab = tabControl1.TabPages["tabPage3"];
         }
 
         private void textBox5_Click(object sender, EventArgs e)
         {
-            textBox5.Text = null;
+            textBox5.Text = null;          
         }
 
         private void textBox6_Click(object sender, EventArgs e)
         {
             textBox6.Text = null;
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage5"];
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage3"];
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            panel1.Visible = true;
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage6"];
+            button16.Text = "Создать";
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage6"];
+            button16.Text = "Сохранить";
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage8"];
+            button16.Text = "Создать";
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage4"];
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage4"];
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage4"];
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage7"];
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage4"];
+        }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage5"];
+        }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectedTab = tabControl1.TabPages["tabPage5"];
+        }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Aqua;  
+        }
+
+        private void button1_MouseLeave(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Empty;
+        }
+
+        private void button2_MouseEnter(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Aqua;
+        }
+
+        private void button2_MouseLeave(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Empty;
+        }
+
+        private void button3_MouseEnter(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Aqua;
+        }
+
+        private void button3_MouseLeave(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Empty;
         }
     }
 }

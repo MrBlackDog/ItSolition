@@ -8,3 +8,8 @@ D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsAppl
 D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.data.cf.dll
+D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.data.dll
+D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.visualstudio.dll
+D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.web.dll
+D:\Users\ITSolution\Desktop\ItSolition\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.MSXML.dll
